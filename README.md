@@ -28,7 +28,7 @@ A Step by Step to reproducing the Modern Python API codebase, but first make sur
 
 Now that the application is up and running, you can further explore its capabilities through the provided link below:
 
-API Documentation
+API Documentation: [http://localhost:8002/docs](http://localhost:8002/docs)
 
 Happy exploring!
 
