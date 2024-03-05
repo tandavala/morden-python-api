@@ -55,5 +55,4 @@ async def delete_note(id: int = Path(..., gt=0)):
         raise HTTPException(status_code=404, detail="Note not found")
 
     await crud.delete(id)
-
     return note
